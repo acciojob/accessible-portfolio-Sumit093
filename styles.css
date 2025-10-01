@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+h1{
+	color"blue;
+}
+nav{
+	border:1px;
+}
+ul{
+	color:pink;
+}
+img{
+	border-radius:20%;
+}
